@@ -1,0 +1,55 @@
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+c      written by the UFO converter
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+frblock 1 mdl_tanbeta
+
+frblock 2 mdl_sinbma
+
+higgs 1 mdl_l2
+
+higgs 2 mdl_l3
+
+higgs 3 mdl_lR7
+
+loop 1 MU_R
+
+mass 5 mdl_MB
+
+mass 6 mdl_MT
+
+mass 23 mdl_MZ
+
+mass 25 mdl_mh1
+
+mass 35 mdl_mh2
+
+mass 36 mdl_mh3
+
+mass 37 mdl_mhc
+
+sminputs 1 aEWM1
+
+sminputs 2 mdl_Gf
+
+sminputs 3 aS
+
+yukawa 5 mdl_ymb
+
+yukawa 6 mdl_ymt
+
+yukawa 15 mdl_ymtau
+
+decay 6 mdl_WT
+
+decay 23 mdl_WZ
+
+decay 24 mdl_WW
+
+decay 25 mdl_Wh1
+
+decay 35 mdl_Wh2
+
+decay 36 mdl_Wh3
+
+decay 37 mdl_whc
